@@ -2,13 +2,13 @@
 
 ## To complete
 
-- [ ] Ensure the content in the `.news` stories is all left-aligned
-- [ ] Add padding to the stories such that the image will still touch the edges of the `.news` item, but the text will have `1em` on the left and right sides
-- [ ] Change the overall `font` to give all headings a `sans-serif` Google font (your choice), give the remaining text a `serif` Google font
-- [ ] Give the `.news` box a 50% transparent black `box-shadow` **(research)**
-- [ ] Round the corners (`0.5em`) of the `.news` elements **(research)**
-- [ ] For each `.story`, add a link to a page named `story.html` (doesn't exists yet) under the last paragraph. Style it to look like a full width "button" (but should remain an anchor)
-- [ ] At the bottom of the `<main>`, build a custom "pagination" component to look like:
+- [x] Ensure the content in the `.news` stories is all left-aligned
+- [x] Add padding to the stories such that the image will still touch the edges of the `.news` item, but the text will have `1em` on the left and right sides
+- [x] Change the overall `font` to give all headings a `sans-serif` Google font (your choice), give the remaining text a `serif` Google font
+- [x] Give the `.news` box a 50% transparent black `box-shadow` **(research)**
+- [x] Round the corners (`0.5em`) of the `.news` elements **(research)**
+- [x] For each `.story`, add a link to a page named `story.html` (doesn't exists yet) under the last paragraph. Style it to look like a full width "button" (but should remain an anchor)
+- [x] At the bottom of the `<main>`, build a custom "pagination" component to look like:
     ```
     <last 1 2 3 4 next>
     ```
